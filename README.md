@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NullRush</h1>
+<h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
 - 🔭 I’m currently working on [Jericho](https://discord.gg/hhyuemuvKg)
